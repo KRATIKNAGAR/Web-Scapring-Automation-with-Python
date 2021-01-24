@@ -1,2 +1,2 @@
 # Linkedin_Contacts_Info
-Python project used Selenium for automation and beautiful soup for web scraping
+A Python project to get your linkedin contacts, used Selenium for automation and beautiful soup for web scraping.
